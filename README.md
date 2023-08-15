@@ -38,5 +38,6 @@ Global\MyMutex_[ComputerName]
 Local\MyMutex2
 Global\SyncMutex_[ComputerName]_2
 Local\Mutex_[ComputerName]_3
+```
 
 If you're looking for Mutexes used by various malware families, you can refer to https://github.com/albertzsigovits/malware-mutex
